@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titleButton {
+  font-family: "Lobster", cursive;
+}
+
+svg {
+  height: 32px;
+  width: 32px;
+}
