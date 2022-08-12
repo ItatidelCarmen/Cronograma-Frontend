@@ -5,4 +5,5 @@
   flex-direction: column;
   justify-content: center; /* eje x*/
   align-items: center; /* eje y*/
+  gap: 16px;
 }

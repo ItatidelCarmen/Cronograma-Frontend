@@ -1,0 +1,12 @@
+.button {
+  border-radius: 12px;
+  border: none;
+}
+
+.colorSuccess {
+  background-color: #4fde2b;
+}
+
+.colorDanger {
+  background-color: #F21010;
+}
